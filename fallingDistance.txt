@@ -1,0 +1,12 @@
+Time       Distance
+-----------------
+1.0 secs    4.90 meters
+2.0 secs    19.60 meters
+3.0 secs    44.10 meters
+4.0 secs    78.40 meters
+5.0 secs    122.50 meters
+6.0 secs    176.40 meters
+7.0 secs    240.10 meters
+8.0 secs    313.60 meters
+9.0 secs    396.90 meters
+10.0 secs    490.00 meters
